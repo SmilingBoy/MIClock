@@ -23,3 +23,5 @@ hourHandWidth|
 circleCenterRadius| 
 circleCenterWidth| 
 circleCenterColor| 
+
+![avatar](./images/Xiaomi-Redmi%20Note%202-2019-04-12-15-50-08.jpg)
