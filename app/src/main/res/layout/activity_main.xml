@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2196F3">
+
+    <com.smile.miclock.MiClockView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="30dp"
+        app:backgroundColor="#2196F3"
+        app:circleCenterColor="#D0D3CF"
+        app:circleCenterRadius="7dp"
+        app:circleCenterWidth="2dp"
+        app:hourHandColor="#FF1F1F"
+        app:hourHandWidth="7dp"
+        app:innerCircleColor="#FF9800"
+        app:innerCircleWidth="3dp"
+        app:minuteHandColor="#DCEE5A"
+        app:minuteHandWidth="8dp"
+        app:outCircleColor="#BDCA1C"
+        app:outCircleWidth="3dp"
+        app:scaleEndColor="#1AE61A"
+        app:scaleNumberColor="#A71A46"
+        app:scaleStartColor="#0D4419"
+        app:scaleTextSize="18sp"
+        app:scaleWidth="20dp"
+        app:secondHandColor="#BE3D3D" />
+
+
+</LinearLayout>
